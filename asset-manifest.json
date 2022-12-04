@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motorcycles-app/static/css/main.6e4d01c0.css",
+    "main.js": "/motorcycles-app/static/js/main.e3fd827a.js",
+    "static/js/787.004ae3f7.chunk.js": "/motorcycles-app/static/js/787.004ae3f7.chunk.js",
+    "index.html": "/motorcycles-app/index.html",
+    "main.6e4d01c0.css.map": "/motorcycles-app/static/css/main.6e4d01c0.css.map",
+    "main.e3fd827a.js.map": "/motorcycles-app/static/js/main.e3fd827a.js.map",
+    "787.004ae3f7.chunk.js.map": "/motorcycles-app/static/js/787.004ae3f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4d01c0.css",
+    "static/js/main.e3fd827a.js"
+  ]
+}
